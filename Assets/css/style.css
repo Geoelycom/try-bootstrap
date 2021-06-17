@@ -1,0 +1,71 @@
+nav a {
+  margin-left: 20px;
+}
+
+nav {
+  background-color: #3e3c3c;
+}
+
+ul li {
+  margin-right: 20px;
+}
+
+.text {
+  display: block;
+}
+
+header {
+  background-color: #1c1a19;
+  color: #fff;
+  height: 870px;
+  width: 100%;
+}
+
+.bg-image {
+  position: absolute;
+  width: 645.51px;
+  height: 633.32px;
+  right: 8px;
+  top: 52px;
+}
+
+.socail-icon {
+  display: flex;
+  flex-direction: column;
+  margin-top: 250px;
+  font-size: 20px;
+  list-style-type: none;
+}
+
+.socail-icon li a {
+  color: #fff;
+  margin-left: -50px;
+}
+
+.socail-icon li a:hover {
+  color: blue;
+  text-decoration: underline;
+}
+
+h1,
+.text {
+  position: static;
+  width: 566px;
+  height: 160px;
+  left: 0;
+  top: 192px;
+  font-family: 'Crete Round', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 72px;
+  line-height: 81px;
+  color: #f55800;
+}
+
+.about-me {
+  position: static;
+  display: flex;
+  flex-direction: column;
+  margin-right: 500px;
+  margin-top: 150px;
+}
