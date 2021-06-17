@@ -63,10 +63,9 @@ h1,
 }
 
 .about-me {
-	position: static;
+  position: static;
   display: flex;
   flex-direction: column;
   margin-right: 500px;
-		margin-top: 150px;
-  
+  margin-top: 150px;
 }
